@@ -1,2 +1,4 @@
 # Project Files
 node_modules/
+dist/
+.parcel-cache/
